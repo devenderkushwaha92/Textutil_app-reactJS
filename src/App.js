@@ -53,7 +53,7 @@ const toggleMode = ()=>{
         <Route path="/Home" element={<Mytext />} />
         <Route path="/about" element={<About />} />
         <Route path="/Theam" element={<Theam />} />
-
+        
 
       </Routes>
     </BrowserRouter>
